@@ -25,5 +25,5 @@ This is an **Email Spam Detection App** built using **Streamlit** and **Machine 
 
 ---
 
-## 📁 Project Structure
+
 
